@@ -1,0 +1,145 @@
+{
+  "project": {
+    "title": "Traditional Tamil Nadu Pongal Festival",
+    "framework": "SCALE",
+    "version": "1.0",
+    "era": "1980s and 1990s",
+    "location": "Tamil Nadu Village, India",
+    "image_count": 3
+  },
+
+  "SCALE": {
+    "Situation": {
+      "occasion": "Tamil harvest festival",
+      "description": "A culturally authentic celebration of Tamil traditions, agriculture, family, cattle and harvest.",
+      "atmosphere": "Joyful, nostalgic, traditional and festive"
+    },
+
+    "Composition": {
+      "camera": "Wide-angle cinematic photography",
+      "arrangement": "Natural composition with people and traditional elements throughout the village environment",
+      "aspect_ratio": "16:9",
+      "visual_quality": "Photorealistic, highly detailed"
+    },
+
+    "Action": {
+      "emotion": "Happy, smiling, energetic and grateful",
+      "activities": [
+        "Cooking Pongal",
+        "Celebrating harvest",
+        "Decorating cattle",
+        "Traditional folk dancing",
+        "Family gathering"
+      ]
+    },
+
+    "Location": {
+      "setting": "Traditional rural Tamil Nadu village",
+      "elements": [
+        "Red tiled-roof houses",
+        "Coconut trees",
+        "Paddy fields",
+        "Mud courtyards",
+        "Traditional village streets",
+        "Kolam decorations"
+      ]
+    },
+
+    "Esthetics": {
+      "style": "Photorealistic cinematic photography",
+      "lighting": "Warm golden morning sunlight",
+      "colors": [
+        "Harvest gold",
+        "Terracotta brown",
+        "Leaf green",
+        "Traditional maroon",
+        "Sunrise orange"
+      ],
+      "clothing": "Traditional Tamil cotton sarees, veshti, angavastram and pavadai",
+      "mood": "Nostalgic 1980s and 1990s Tamil village aesthetics"
+    }
+  },
+
+  "images": [
+    {
+      "id": "image_01",
+      "festival": "Thai Pongal",
+      "title": "Traditional Thai Pongal Celebration",
+      "prompt": "A culturally authentic Tamil Nadu Thai Pongal celebration in a beautiful rural village during the 1990s. A traditional Tamil family gathers around a decorated clay pot cooking sweet Pongal over a wood fire. Milk overflowing from the pot, women wearing colorful traditional cotton sarees, men wearing white veshti and angavastram, children smiling and shouting Pongalo Pongal. Fresh sugarcane stalks, turmeric plants, banana leaves, brass vessels, colorful rice flour kolam and mango leaf decorations. Traditional red tiled-roof village houses and coconut trees in the background. Warm golden sunrise, joyful expressions, realistic Tamil cultural details, cinematic photorealism.",
+      "main_elements": [
+        "Overflowing Pongal pot",
+        "Sugarcane",
+        "Turmeric plants",
+        "Traditional family",
+        "Colorful kolam",
+        "Village courtyard"
+      ],
+      "emotion": "Happiness, prosperity and gratitude",
+      "camera": "Wide-angle village composition",
+      "aspect_ratio": "16:9",
+      "quality": "4K photorealistic"
+    },
+
+    {
+      "id": "image_02",
+      "festival": "Mattu Pongal",
+      "title": "Traditional Mattu Pongal Celebration",
+      "prompt": "An authentic traditional Mattu Pongal celebration in a Tamil Nadu village during the 1980s and 1990s. Beautiful native Tamil cattle including Kangayam bulls and cows decorated with colorful flower garlands, painted horns and traditional bells. Farmers and their families joyfully celebrating and showing gratitude to their cattle. Children happily standing beside decorated cows, villagers wearing traditional veshti and cotton sarees. Traditional village houses, coconut trees, sugarcane decorations and green agricultural fields in the background. Peaceful rural atmosphere, warm sunlight, natural expressions, culturally accurate Tamil agricultural traditions, cinematic photorealistic photography.",
+      "main_elements": [
+        "Native Tamil cattle",
+        "Kangayam bulls",
+        "Decorated horns",
+        "Flower garlands",
+        "Traditional bells",
+        "Farmers and families",
+        "Agricultural village"
+      ],
+      "emotion": "Gratitude, happiness and respect for cattle",
+      "camera": "Wide-angle cinematic shot",
+      "aspect_ratio": "16:9",
+      "quality": "4K photorealistic"
+    },
+
+    {
+      "id": "image_03",
+      "festival": "Tamil Cultural Celebration",
+      "title": "Traditional Tamil Village Cultural Festival",
+      "prompt": "A grand culturally authentic Tamil village festival celebration during the 1990s. A lively village street filled with traditional Tamil folk performances including Karagattam, Kolattam and Thappattam. Men playing traditional Parai drums, women performing colorful folk dances, children celebrating and elders watching happily. Traditional Tamil costumes, colorful pavadai, davani, cotton sarees, veshti and jasmine flowers. Beautiful kolam designs outside traditional tiled-roof houses, sugarcane decorations, banana trees, mango leaf thoranam and festive village decorations. Bright natural daylight, joyful smiling faces, energetic movements, rich Tamil cultural heritage, realistic village environment, cinematic photorealistic photography.",
+      "main_elements": [
+        "Karagattam dance",
+        "Kolattam dance",
+        "Parai drumming",
+        "Thappattam",
+        "Traditional Tamil costumes",
+        "Village kolam",
+        "Festive decorations"
+      ],
+      "emotion": "Excitement, cultural pride and togetherness",
+      "camera": "Wide panoramic composition",
+      "aspect_ratio": "16:9",
+      "quality": "4K photorealistic"
+    }
+  ],
+
+  "negative_prompt": [
+    "Modern city buildings",
+    "Western festival costumes",
+    "Modern party decorations",
+    "Unrealistic cattle",
+    "Fantasy architecture",
+    "Artificial facial expressions",
+    "Plastic-looking textures",
+    "Incorrect Tamil cultural elements",
+    "Modern vehicles",
+    "Cartoon appearance"
+  ],
+
+  "final_output": {
+    "total_images": 3,
+    "format": "PNG",
+    "aspect_ratio": "16:9",
+    "style": "Photorealistic",
+    "theme_consistency": "All three images must maintain the same nostalgic Tamil village atmosphere",
+    "visual_goal": "Show the beauty, happiness and cultural authenticity of Tamil Nadu Pongal celebrations"
+  }
+}
